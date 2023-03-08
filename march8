@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+		hi
+	</title>
+</head>
+
+<body>
+
+	<center> 
+		<font size="12" color="gray" face="arial"> <em> sofia </em> </font> 
+	</center>
+
+<hr> </hr>
+
+<div 
+
+	align="left" style="width:500px; height:250px; padding:18px; border:2px solid lightgray ;"> <img src= "redpanda.jpg"/> 
+
+<font size="10" color="gray" face="arial"> <table>
+		<tr>
+			hi
+		</tr>
+		<tr>
+			hello
+		</tr>
+		<tr>
+			test
+		</tr>
+	</table> </font> 
+	
+
+</div>
+
+	<p> these are the TRUE awards of the for the grammys, oscars and actors of the year. no other opinion is correct, mine is the only correct opinion !!!!!!!!
+
+	<ul>
+		<li> GRAMMYS ; <em>best album, best song</em> </li>
+		<li> <a href="link2.html">pedro :3</a> OSCARS ; <em>best show, best movie, best actors</em> </li>
+		<li> TEACHER ; <em>secret award</em></li>
+	</ul>
+
+	</p>
+
+	<table>
+		<tr>
+			hi
+		</tr>
+		<tr>
+			hello
+		</tr>
+		<tr>
+			test
+		</tr>
+	</table>
+
+</body>
+
+</html>
+
+
